@@ -6,3 +6,4 @@ Proyecto Final Coursera de Ciencia de Datos Aplicada - Curso Capstone
 
 ## Trabajo de Agrupación y Segmentación de Vecindarios en la Ciudad de Toronto, Canadá
 **Postal Code:** Primer pregunta del trabajo de la semana tres. Web Scraping de tabla de postal codes de Toronto
+**Coordenadas:** Segunda pregunta del trabajo de la semana tres. Agregar datos de latitud y longitud a la lista de códigos postales
