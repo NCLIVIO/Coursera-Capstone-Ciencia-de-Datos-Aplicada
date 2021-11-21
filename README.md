@@ -8,3 +8,6 @@ Proyecto Final Coursera de Ciencia de Datos Aplicada - Curso Capstone
 - **Postal Code:** Primer pregunta del trabajo de la semana tres. Web Scraping de tabla de postal codes de Toronto
 - **Coordenadas:** Segunda pregunta del trabajo de la semana tres. Agregar datos de latitud y longitud a la lista de códigos postales
 - **Clustering:** Tercera pregunta del trabajo de la semana tres. Análisis de agrupación y segmentacion de los barrios de Toronto, Canada
+
+### Batalla de los Vecindarios, Proyecto Final
+-**Definición del Problema:** Primer pregunta del trabajo de la semana cuatro. Definición del problema del proyecto final
