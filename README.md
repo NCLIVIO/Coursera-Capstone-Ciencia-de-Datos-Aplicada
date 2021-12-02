@@ -11,3 +11,5 @@ Proyecto Final Coursera de Ciencia de Datos Aplicada - Curso Capstone
 
 ### Batalla de los Vecindarios, Proyecto Final
 -**Definición del Problema:** Primer pregunta del trabajo de la semana cuatro. Definición del problema del proyecto final
+-**Definición de los Datos:** Segunda pregunta del trabajo de la semana cuatro. Definición de las fuentes de datos del proyecto final
+-**Proyecto Final:** Notebook del trabajo final con todo el desarrollo del proyecto aplicando un modelo de clustering
