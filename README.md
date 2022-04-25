@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera Capstone Curso de Ciancia de Datos Aplicada
 Proyecto Final Coursera de Ciencia de Datos Aplicada - Curso Capstone
 
 ### Introducción
